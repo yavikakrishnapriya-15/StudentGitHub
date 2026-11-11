@@ -1,0 +1,17 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background: lightblue;
+}
+
+form {
+    width: 300px;
+    margin: auto;
+}
+
+input, select, button {
+    display: block;
+    width: 100%;
+    padding: 8px;
+    margin: 8px 0;
+}
